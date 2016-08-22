@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GpsLocationTest</string>
+    <string name="title_activity_show_location">ShowLocationActivity</string>
+    <string name="title_activity_phone_location">PhoneLocationActivity</string>
+</resources>
